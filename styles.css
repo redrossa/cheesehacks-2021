@@ -1,8 +1,6 @@
-h1 {
-  color: red;
-  margin: auto;
-  text-align: center;
-  margin-bottom: 20px;
+body {
+  margin: 0px;
+  padding: 0px;
 }
 
 canvas {
